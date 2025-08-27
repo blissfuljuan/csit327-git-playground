@@ -1,0 +1,4 @@
+- Year/Section: e.g., 3rd Year / G01
+- Favorite Language: e.g., JavaKotlin
+- One Git Tip Learned: e.g., Use `lamda` often
+- GitHub: @Melessa-mooh
