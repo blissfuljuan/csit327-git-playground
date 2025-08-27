@@ -28,7 +28,7 @@ jobs:
           if ! grep -E '#[0-9]+' commits.txt; then
             echo "Reference an issue number like (#1) in at least one commit"; exit 1; fi
 
-      # 3) Locate THIS PR's bio file (robust)
+      # 3) Locate THIS PR's bio file (kept from your original)
       - name: Locate bio file for this PR
         id: bio
         shell: bash
@@ -49,7 +49,6 @@ jobs:
             for f in "${changed[@]}"; do
               if grep -qF "@${USER}" "$f"; then pick="$f"; break; fi
             done
-            # If still ambiguous, just take the first changed file
             [[ -z "$pick" ]] && pick="${changed[0]}"
           fi
 
@@ -66,25 +65,75 @@ jobs:
           echo "bio_file=$pick" >> "$GITHUB_OUTPUT"
           echo "Found bio: $pick"
 
-
-      # 4) Ensure README has Contributors section and was actually changed
-      - name: Check README contributors updated
+      # 4) NEW: Find exactly one group contributors file changed at repo root
+      - name: Locate group contributors file (root-level)
+        id: grp
+        shell: bash
         run: |
-          if ! grep -q "^##[[:space:]]\+Contributors" README.md; then
-            echo "README missing '## Contributors' section"; exit 1; fi
-          DIFF="$(git diff origin/main..HEAD -- README.md)"
-          if ! echo "$DIFF" | grep -E '^\+[^+]' | grep -vi 'contributors' | grep -q .; then
-            echo "README.md appears unchanged; add your contributor line"; exit 1; fi
+          set -euo pipefail
+          BASE="${{ github.event.pull_request.base.sha }}"
+          HEAD="${{ github.event.pull_request.head.sha }}"
 
-      # 5) NEW: README must include the student's @username
-      - name: Verify @username present in README
+          # Consider only root files matching G<number>-CONTRIBUTORS.md
+          mapfile -t gfiles < <(git diff --name-only --diff-filter=AM "$BASE".."$HEAD" -- '*-CONTRIBUTORS.md' \
+                                | grep -E '^G[0-9]+-CONTRIBUTORS\.md$' || true)
+
+          if (( ${#gfiles[@]} == 0 )); then
+            echo "No group contributors file changed. Edit your group file (e.g., G1-CONTRIBUTORS.md) at the repo root." >&2
+            exit 1
+          fi
+          if (( ${#gfiles[@]} > 1 )); then
+            printf "Multiple group contributor files changed:\n%s\n" "${gfiles[@]}" >&2
+            echo "Change exactly ONE group file." >&2
+            exit 1
+          fi
+
+          FILE="${gfiles[0]}"
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+          echo "group_file=$FILE" >> "$GITHUB_OUTPUT"
+          echo "Found group file: $FILE"
+
+      # 5) Verify PR author's @username appears in that group file (bullet line)
+        - name: Verify @username present in group contributors file
+          shell: bash
+          run: |
+            set -euo pipefail
+            USER="${{ github.actor }}"
+            FILE="${{ steps.grp.outputs.group_file }}"
+            echo "Checking $FILE for @${USER}"
+
+            # Accept -, *, or + bullets, any spaces, then @username
+            # After the username, require a non-username char or EOL (prevents partial matches)
+            if ! grep -En "^[-*+][[:space:]]+@${USER}([^A-Za-z0-9-]|$)" "$FILE" >/dev/null; then
+              echo "❌ Couldn't find a bullet line with @${USER} in $FILE" >&2
+              echo "Add a line like:" >&2
+              echo "- @${USER} — Your Name (Section: IT342-G0x)" >&2
+
+              echo "— Debug: showing lines that look like bullets with @ handles —"
+              grep -En "^[-*+][[:space:]]+@" "$FILE" || true
+              exit 1
+            fi
+
+            echo "✅ Found bullet line with @${USER} in $FILE"
+
+
+      # 6) (Optional) Ensure only minimal additions were made to that group file
+      - name: Ensure only one new roster line added (optional)
+        shell: bash
         run: |
-          USER="${{ github.actor }}"
-          if ! grep -F "@${USER}" README.md >/dev/null; then
-            echo "Your GitHub username (@${USER}) must appear in README.md under Contributors"; exit 1; fi
+          set -euo pipefail
+          BASE="${{ github.event.pull_request.base.sha }}"
+          HEAD="${{ github.event.pull_request.head.sha }}"
+          FILE="${{ steps.grp.outputs.group_file }}"
+          ADDED=$(git diff --unified=0 "$BASE".."$HEAD" -- "$FILE" \
+                  | grep -E '^\+' | grep -vE '^\+\+\+ ' | wc -l || true)
+          if [ "$ADDED" -gt 3 ]; then
+            echo "Too many additions in $FILE. Add only your single roster line." >&2
+            exit 1
+          fi
+          echo "ℹ️ Added lines in $FILE: $ADDED"
 
-      # 6) NEW: Bio file must include the student's @username
-        # Uses the file detected in step #3
+      # 7) Bio file must include the student's @username (kept from original)
       - name: Verify @username present in bio
         run: |
           USER="${{ github.actor }}"
