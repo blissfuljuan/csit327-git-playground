@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G1
+- Favorite Language: C
+- One Git Tip Learned: nothing to share rn :<
+- GitHub: @jakkiii
