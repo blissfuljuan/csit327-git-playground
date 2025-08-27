@@ -1,2 +1,5 @@
 ## Contributors
--Maestrado, Ralph Keane A. (**@Larpeeyy**)
+- _Add your name here in Task C_
+- -Maestrado, Ralph Keane A. (**@Larpeeyy**)
+- Revilleza, Frederick (**@blissfuljuan**)
+
