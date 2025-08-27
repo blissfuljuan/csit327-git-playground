@@ -103,7 +103,7 @@ jobs:
           echo "Checking $FILE for @${USER}"
           if ! grep -Eq "^- *@${USER}\b" "$FILE"; then
             echo "Your GitHub username (@${USER}) must appear as a bullet line in $FILE" >&2
-            echo "Add: - @${USER} — Your Name (Section: IT342-G0x)" >&2
+            echo "Add: - Your Name (@${USER})" >&2
             exit 1
           fi
           echo "✅ Found @${USER} in $FILE"
