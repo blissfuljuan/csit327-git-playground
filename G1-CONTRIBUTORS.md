@@ -1,2 +1,2 @@
 ## Contributors
-- Canonigo, Johndanie (**@Kaigekii**)
+- Canonigo, Johndaniel (**@Kaigekii**)
