@@ -93,20 +93,29 @@ jobs:
           echo "group_file=$FILE" >> "$GITHUB_OUTPUT"
           echo "Found group file: $FILE"
 
-      # 5) Verify PR author's @username appears in that group file
-      - name: Verify @username present in group contributors file
-        shell: bash
-        run: |
-          set -euo pipefail
-          USER="${{ github.actor }}"
-          FILE="${{ steps.grp.outputs.group_file }}"
-          echo "Checking $FILE for @${USER}"
-          if ! grep -Eq "^- *@${USER}\b" "$FILE"; then
-            echo "Your GitHub username (@${USER}) must appear as a bullet line in $FILE" >&2
-            echo "Add: - Your Name (@${USER})" >&2
-            exit 1
-          fi
-          echo "✅ Found @${USER} in $FILE"
+      # 5) Verify PR author's @username appears in that group file (bullet line)
+        - name: Verify @username present in group contributors file
+          shell: bash
+          run: |
+            set -euo pipefail
+            USER="${{ github.actor }}"
+            FILE="${{ steps.grp.outputs.group_file }}"
+            echo "Checking $FILE for @${USER}"
+
+            # Accept -, *, or + bullets, any spaces, then @username
+            # After the username, require a non-username char or EOL (prevents partial matches)
+            if ! grep -En "^[-*+][[:space:]]+@${USER}([^A-Za-z0-9-]|$)" "$FILE" >/dev/null; then
+              echo "❌ Couldn't find a bullet line with @${USER} in $FILE" >&2
+              echo "Add a line like:" >&2
+              echo "- @${USER} — Your Name (Section: IT342-G0x)" >&2
+
+              echo "— Debug: showing lines that look like bullets with @ handles —"
+              grep -En "^[-*+][[:space:]]+@" "$FILE" || true
+              exit 1
+            fi
+
+            echo "✅ Found bullet line with @${USER} in $FILE"
+
 
       # 6) (Optional) Ensure only minimal additions were made to that group file
       - name: Ensure only one new roster line added (optional)
