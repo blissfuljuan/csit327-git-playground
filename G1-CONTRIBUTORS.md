@@ -1,4 +1,5 @@
 ## Contributors
 - _Add your name here in Task C_
-- Libato, Michael (**MichaelGrant-Libato**)
 - Revilleza, Frederick (**@blissfuljuan**)
+- Revilleza, Frederick (**@juantojuan**)
+- Libato, Michael (**MichaelGrant-Libato**)
