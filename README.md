@@ -151,3 +151,6 @@ git fetch origin && git merge origin/main
 - **No issue reference:** Amend/add a new commit including `(#1)` or `(#2)`.
 
 ---
+
+## Contributors
+- Macansantos, Axcel (**@AksilDev**)
