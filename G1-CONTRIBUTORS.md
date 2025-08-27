@@ -1,2 +1,4 @@
 ## Contributors
-- Lastname, Firstname (**@Melessa-mooh**)
+- _Add your name here in Task C_
+- Revilleza, Frederick (**@blissfuljuan**)
+- Cabasag, Ma. Melessa (**@Melessa-mooh**)
