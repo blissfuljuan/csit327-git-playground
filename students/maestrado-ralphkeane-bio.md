@@ -1,0 +1,4 @@
+- Year/Section: 3rd/G1
+- Favorite Language: Java
+- One Git Tip Learned: 'git commit'
+- GitHub: @Larpeeyy
