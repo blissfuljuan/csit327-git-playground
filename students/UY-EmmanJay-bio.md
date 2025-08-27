@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G1
+- Favorite Language: Java
+- One Git Tip Learned: use git status or let us use github desktop app please hehe
+- GitHub: @EmmanJay
