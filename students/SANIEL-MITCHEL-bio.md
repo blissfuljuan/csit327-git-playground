@@ -1,0 +1,4 @@
+- Year/Section: 4th Year / G01
+- Favorite Language: Javascript
+- One Git Tip Learned: Use `git log --oneline` to show commit history neatly
+- GitHub: @mortymier
