@@ -1,0 +1,4 @@
+- 3rd Year / G01
+- Java
+- Seriously use `git status` often
+- GitHub: @dadoyyy
