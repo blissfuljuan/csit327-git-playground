@@ -11,3 +11,5 @@
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Go, Felix Christian (**@Lumity-13**)
 - Coca, Juvie (**@Juvie-cmd**)
+- Lo, Joshua Noel (**juswangs12**)
+- Coca, Juvie (**@Juvie-cmd**)
