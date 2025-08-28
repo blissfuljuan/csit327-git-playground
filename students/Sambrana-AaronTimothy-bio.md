@@ -1,0 +1,4 @@
+- Year/Section: e.g., 4th Year / G02
+- Favorite Language: e.g., Javascript
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @madz890
