@@ -13,3 +13,4 @@
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
+- Zafra, Jake Laurence (**JakeLaurenceZafra**)
