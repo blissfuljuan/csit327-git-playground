@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year
+- Favorite Language: Java
+- One Git Tip Learned: git status
+- GitHub: @kylehatescodes
