@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G1
+- Favorite Language: Java
+- One Git Tip Learned: e.g., Use `git checkout -b` often
+- GitHub: @ItzAaliyahh20
