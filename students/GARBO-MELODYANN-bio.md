@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G1
+- Favorite Language: Java, C
+- One Git Tip Learned: Use `git checkout -b` to checkout and commit at the same time
+- GitHub: @mldyann02
