@@ -1,0 +1,4 @@
+- Year/Section: 4th Year / G02
+- Favorite Language: Java and Python
+- One Git Tip Learned: Use `git status` often
+- GitHub: @Mr-cmd-pip
