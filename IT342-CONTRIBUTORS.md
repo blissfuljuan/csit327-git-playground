@@ -6,5 +6,7 @@
 - Abadiano, Kent Dominic (**@KapitanKent**)
 - Ahito, Bernadeth Claire (**@berna-ahito**)
 - Cantiller, Christian Jayson (**@Shanta413**)
+- Diva, Justin (**@avid0101**)
 - Ahito, Bernadeth Claire (**@berna-ahito**)
+
 
