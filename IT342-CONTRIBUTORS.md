@@ -18,3 +18,5 @@
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
 - Sapio, Gwyn (**pengwyn7**)
+- Tabungar, Steven Jan (**@Smuffinn**)
+- verano, joel (**@VeranoJoel**)
