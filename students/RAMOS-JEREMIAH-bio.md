@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year, G1
+- Favorite Language: Rust
+- One Git Tip Learned: Make your contributions look shiny with 1 commit per day!
+- GitHub: @tallbreadstick
