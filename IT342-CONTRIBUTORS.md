@@ -12,3 +12,4 @@
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
+- Lada, Nathan Xander (**@na-t-h-an**)
