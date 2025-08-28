@@ -13,7 +13,6 @@
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
-- Eupena, Felix (**@saluspupuli-dotcom**)
 - Jumawan, Clyde Nixon (**@klaydgg12**)
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
