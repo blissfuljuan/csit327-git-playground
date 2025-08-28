@@ -1,0 +1,4 @@
+- Year/Section: BSIT4-G01
+- Favorite Language: C
+- One Git Tip Learned: be paranoid, double/triple/quadruple check each time you do any git command
+- GitHub: @NFGab
