@@ -1,6 +1,6 @@
 **Eupena, Felix III**
 
-- Year/Section: e.g., BSIT-4
-- Favorite Language: e.g., Java
-- One Git Tip Learned: e.g., Push & open a Pull Request
+- Year/Section: BSIT-4 / G02
+- Favorite Language:  Java and Python
+- One Git Tip Learned:  Push & open a Pull Request
 - GitHub: saluspupuli-dotcom
