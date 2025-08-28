@@ -13,5 +13,7 @@
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
-- Sagaral, Earl Jericho (**@EarlSteim1**)
 - Jumawan, Clyde Nixon (**@klaydgg12**)
+- Jumawan, Clyde Nixon (**@klaydgg12**)
+- Caranzo, Mac Howard (**@Howardness**)
+- Sagaral, Earl Jericho (**@EarlSteim1**)
