@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G1
+- Favorite Language: C
+- One Git Tip Learned: Use `git status` to check if there are any changes within the local repo
+- GitHub: @res-jammixs
