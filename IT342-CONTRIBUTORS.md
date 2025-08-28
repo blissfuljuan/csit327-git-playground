@@ -4,6 +4,7 @@
 - Sepulveda, Kyle (**@Nagazta**)
 - Sumucad, Joseph Kyle (**@kylehatescodes**
 - Abadiano, Kent Dominic (**@KapitanKent**)
+- Ygot, Dante (**@Dantogy**)
 - Cantiller, Christian Jayson (**@Shanta413**)
 - Diva, Justin (**@avid0101**)
 - Casas, Kursten Dane (**@kurstdane**)
