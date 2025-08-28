@@ -12,3 +12,5 @@
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
+- Rosel, Patricia (**patetetet**)
+
