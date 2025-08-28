@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G1
+- Favorite Language: Java
+- One Git Tip Learned: `git commit` is used to record changes to the local repository.
+- GitHub: @godwinlabaya
