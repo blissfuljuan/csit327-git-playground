@@ -14,3 +14,4 @@
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
 - Sagaral, Earl Jericho (**@EarlSteim1**)
+- Jumawan, Clyde Nixon (**@klaydgg12**)
