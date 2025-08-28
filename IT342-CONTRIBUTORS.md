@@ -14,5 +14,7 @@
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
 - Jumawan, Clyde Nixon (**@klaydgg12**)
-- Sapio, Gwyn (**pengwyn7**)
 - Caranzo, Mac Howard (**@Howardness**)
+- Caranzo, Mac Howard (**@Howardness**)
+- Tabungar, Steven Jan (**@Smuffinn**)
+- Sapio, Gwyn (**pengwyn7**)
