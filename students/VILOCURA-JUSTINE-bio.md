@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G01
+- Favorite Language: React JS
+- One Git Tip Learned: git start
+- GitHub: @justine.vilocura@cit.edu
