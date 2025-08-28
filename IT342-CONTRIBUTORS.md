@@ -7,6 +7,8 @@
 - Abadiano, Kent Dominic (**@KapitanKent**)
 - Cantiller, Christian Jayson (**@Shanta413**)
 - Diva, Justin (**@avid0101**)
+- Casas, Kursten Dane (**@kurstdane**)
 - Carao, Estelle Felicity (**@teruteriri**)
+- Abella, Franchesca Louise (**@ChescaAbella**)
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Miel, Kaysean (**@CyberSinx**)
