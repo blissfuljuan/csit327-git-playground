@@ -14,3 +14,4 @@
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
 - Sambrana, Aaron Timothy (**@madz890**)
+- Jumawan, Clyde Nixon (**@klaydgg12**)
