@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G01
+- Favorite Language: Javascript
+- One Git Tip Learned: commit early
+- GitHub: @zydric
