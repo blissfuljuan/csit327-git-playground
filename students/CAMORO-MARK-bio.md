@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G1
+- Favorite Language: Java
+- One Git Tip Learned: Use git commit --amend to fix your last commit message or add missed changes without creating a new commit.
+- GitHub: @markstatic12
