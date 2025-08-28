@@ -1,0 +1,4 @@
+- Year/Section: e.g., 4th Year / G1
+- Favorite Language: e.g., Java
+- One Git Tip Learned: e.g., Use `git push` when sending files in github
+- GitHub: @LowiGH
