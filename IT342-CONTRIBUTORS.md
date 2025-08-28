@@ -13,4 +13,5 @@
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
+- Jumawan, Clyde Nixon (**@klaydgg12**)
 - Louis Drey Castañeto (**@zzephyrr-louis**)
