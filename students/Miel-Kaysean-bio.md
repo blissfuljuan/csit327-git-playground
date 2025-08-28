@@ -1,0 +1,4 @@
+- Year/Section: 4th Year / G01
+- Favorite Language: Python
+- One Git Tip Learned: Learn Git Branching
+- GitHub: @CyberSinx

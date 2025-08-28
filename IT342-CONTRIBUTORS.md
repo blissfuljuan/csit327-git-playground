@@ -2,7 +2,7 @@
 - Revilleza, Frederick (**@blissfuljuan**)
 - Pael, Neilross Ulysses (**@tetWantsToCode**)
 - Sepulveda, Kyle (**@Nagazta**)
-- Sumucad, Joseph Kyle (**@kylehatescodes**)
+- Sumucad, Joseph Kyle (**@kylehatescodes**
 - Abadiano, Kent Dominic (**@KapitanKent**)
 - Ygot, Dante (**@Dantogy**)
 - Cantiller, Christian Jayson (**@Shanta413**)
@@ -12,3 +12,4 @@
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
+- Miel, Kaysean (**@CyberSinx**)
