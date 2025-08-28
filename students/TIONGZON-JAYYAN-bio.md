@@ -1,0 +1,4 @@
+- 3rd Year / G1
+- C#
+- Use git status frequently to keep track of your changes.
+- GitHub: @mrxception
