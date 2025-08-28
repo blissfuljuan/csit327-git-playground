@@ -1,4 +1,5 @@
 ## Contributors
+
 - Revilleza, Frederick (**@blissfuljuan**)
 - Pael, Neilross Ulysses (**@tetWantsToCode**)
 - Sepulveda, Kyle (**@Nagazta**)
@@ -9,3 +10,4 @@
 - Casas, Kursten Dane (**@kurstdane**)
 - Carao, Estelle Felicity (**@teruteriri**)
 - Abella, Franchesca Louise (**@ChescaAbella**)
+- Riva, Zendrix (**@zendrix**)
