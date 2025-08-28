@@ -1,0 +1,4 @@
+- Year/Section: 4th year / G01
+- Favorite Language: Python
+- One Git Tip Learned: Use `git branch` to check existing branches
+- GitHub: @berna-ahito
