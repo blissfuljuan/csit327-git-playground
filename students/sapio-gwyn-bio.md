@@ -1,0 +1,4 @@
+- Year/Section: 4th Year / G02
+- Favorite Language: Java
+- One Git Tip Learned: check git ignore
+- GitHub: @pengwyn7
