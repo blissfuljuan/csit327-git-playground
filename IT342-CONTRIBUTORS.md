@@ -1,5 +1,9 @@
 ## Contributors
 - Revilleza, Frederick (**@blissfuljuan**)
-- Flores, E.J Boy(**@floresejboy**)
 - Pael, Neilross Ulysses (**@tetWantsToCode**)
 - Sepulveda, Kyle (**@Nagazta**)
+- Sumucad, Joseph Kyle (**@kylehatescodes**
+- Abadiano, Kent Dominic (**@KapitanKent**)
+- Cantiller, Christian Jayson (**@Shanta413**)
+- Diva, Justin (**@avid0101**)
+- Flores, E.J Boy(**@floresejboy**)

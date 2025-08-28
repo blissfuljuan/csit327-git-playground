@@ -1,0 +1,4 @@
+- Year/Section: 4th Year / G01
+- Favorite Language: Java
+- One Git Tip Learned: Use `git status` often
+- GitHub: @KapitanKent
