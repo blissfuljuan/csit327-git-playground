@@ -1,0 +1,4 @@
+- Year/Section: 4th Year / G1
+- Favorite Language: C
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @Juvie-cmd
