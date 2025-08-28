@@ -1,0 +1,4 @@
+- Year/Section: 4th Year / G02
+- Favorite Language: Javascript
+- One Git Tip Learned: using git reset --hardg
+- GitHub: @johanngwapo
