@@ -2,11 +2,17 @@
 - Revilleza, Frederick (**@blissfuljuan**)
 - Pael, Neilross Ulysses (**@tetWantsToCode**)
 - Sepulveda, Kyle (**@Nagazta**)
-- Sumucad, Joseph Kyle (**@kylehatescodes**
+- Sumucad, Joseph Kyle (**@kylehatescodes**)
 - Abadiano, Kent Dominic (**@KapitanKent**)
-- Ahito, Bernadeth Claire (**@berna-ahito**)
 - Cantiller, Christian Jayson (**@Shanta413**)
 - Diva, Justin (**@avid0101**)
+- Ygot, Dante (**@Dantogy**)
+- Cantiller, Christian Jayson (**@Shanta413**)
+- Diva, Justin (**@avid0101**)
+- Casas, Kursten Dane (**@kurstdane**)
+- Carao, Estelle Felicity (**@teruteriri**)
+- Abella, Franchesca Louise (**@ChescaAbella**)
+- Go, Felix Christian (**@Lumity-13**)
+- Lo, Joshua Noel (**juswangs12**)
 - Ahito, Bernadeth Claire (**@berna-ahito**)
-
 
