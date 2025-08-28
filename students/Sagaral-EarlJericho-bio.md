@@ -1,0 +1,4 @@
+- Year/Section: 4th Year/G2
+- Favorite Language: Java
+- One Git Tip Learned: I love movie
+- GitHub: @EarlSteim2
