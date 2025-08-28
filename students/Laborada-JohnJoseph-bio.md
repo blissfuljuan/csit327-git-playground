@@ -1,0 +1,4 @@
+- 4th Year / G02
+- Java
+- Use `git status` often
+- @moshiverse
