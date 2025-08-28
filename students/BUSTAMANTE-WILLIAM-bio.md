@@ -1,0 +1,4 @@
+- Year/Section: 4rd Year / G02
+- Favorite Language: Java
+- One Git Tip Learned: Use `git status` often
+- GitHub: @yamn24
