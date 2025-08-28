@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G1
+- Favorite Language: HTML
+- One Git Tip Learned: Use `git status` often
+- GitHub: @ChescaAbella

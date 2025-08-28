@@ -1,0 +1,4 @@
+- 4th Year / G01
+- Favorite Language: Java
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @teruteriri
