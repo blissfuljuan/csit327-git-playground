@@ -5,5 +5,6 @@
 - Sumucad, Joseph Kyle (**@kylehatescodes**
 - Abadiano, Kent Dominic (**@KapitanKent**)
 - Cantiller, Christian Jayson (**@Shanta413**)
+- Diva, Justin (**@avid0101**)
 - Coca, Juvie (**@Juvie-cmd**)
 
