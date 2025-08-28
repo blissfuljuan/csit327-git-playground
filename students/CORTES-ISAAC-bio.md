@@ -1,0 +1,4 @@
+- Year/Section: e.g., 3rd Year / G1
+- Favorite Language: Gdscript, Python, Javascript, Php, ReactJs, Java, C++, C#, Rust
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @CortesProjects
