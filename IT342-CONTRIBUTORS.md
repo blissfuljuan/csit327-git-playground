@@ -15,4 +15,5 @@
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
 - Jumawan, Clyde Nixon (**@klaydgg12**)
 - Caranzo, Mac Howard (**@Howardness**)
+- De los Cientos, Leo Jake (**@Sett373**)
 - Tabungar, Steven Jan (**@Smuffinn**)
