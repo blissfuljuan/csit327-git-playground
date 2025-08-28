@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G01
+- Favorite Language: Java
+- One Git Tip Learned: The "git status" is used more for telling me whether my current directory is clean, not to tell me that the change I made has reflected
+- GitHub: @eronasia
