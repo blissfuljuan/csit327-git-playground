@@ -1,0 +1,4 @@
+- Year/Section: BSIT-3 G1
+- Favorite Language: Java
+- One Git Tip Learned: use fork
+- GitHub: @michaela_es
