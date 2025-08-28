@@ -16,3 +16,5 @@
 - Jumawan, Clyde Nixon (**@klaydgg12**)
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
+- Zafra, Jake Laurence (**JakeLaurenceZafra**)
+
