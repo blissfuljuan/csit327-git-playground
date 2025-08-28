@@ -4,6 +4,8 @@
 - Sepulveda, Kyle (**@Nagazta**)
 - Sumucad, Joseph Kyle (**@kylehatescodes**)
 - Abadiano, Kent Dominic (**@KapitanKent**)
+- Cantiller, Christian Jayson (**@Shanta413**)
+- Diva, Justin (**@avid0101**)
 - Ygot, Dante (**@Dantogy**)
 - Cantiller, Christian Jayson (**@Shanta413**)
 - Diva, Justin (**@avid0101**)
@@ -12,3 +14,5 @@
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
+- Ahito, Bernadeth Claire (**@berna-ahito**)
+
