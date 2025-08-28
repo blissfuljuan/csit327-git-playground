@@ -1,0 +1,4 @@
+- Year/Section: e.g., 3rd Year / G1
+- Favorite Language: Java
+- One Git Tip Learned: hello world
+- GitHub: @vanandrae
