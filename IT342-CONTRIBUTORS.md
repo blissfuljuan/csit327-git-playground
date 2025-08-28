@@ -13,6 +13,6 @@
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
-- Azcona, Jeffer (**@Jippir**)
 - Jumawan, Clyde Nixon (**@klaydgg12**)
- 
+- Caranzo, Mac Howard (**@Howardness**)
+- Azcona, Jeffer (**@Jippir**)
