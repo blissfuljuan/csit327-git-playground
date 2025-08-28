@@ -15,3 +15,4 @@
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
 - Jumawan, Clyde Nixon (**@klaydgg12**)
 - Sapio, Gwyn (**pengwyn7**)
+- Caranzo, Mac Howard (**@Howardness**)
