@@ -1,0 +1,4 @@
+- Year/Section: 4th year / G01
+- Favorite Language: Python, Java, Kotlin
+- One Git Tip Learned: Save the file first then use "git add" before commiting
+- Github: @YBMACO
