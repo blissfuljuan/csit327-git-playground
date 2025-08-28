@@ -14,6 +14,6 @@
 - Lo, Joshua Noel (**juswangs12**)
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
 - Jumawan, Clyde Nixon (**@klaydgg12**)
-- Jumawan, Clyde Nixon (**@klaydgg12**)
 - Caranzo, Mac Howard (**@Howardness**)
+- Tabungar, Steven Jan (**@Smuffinn**)
 - Sagaral, Earl Jericho (**@EarlSteim1**)
