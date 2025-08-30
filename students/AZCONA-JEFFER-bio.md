@@ -1,0 +1,4 @@
+- Year/Section: 4th Year/G2
+- Favorite Language: C#
+- One Git Tip Learned: I love sir frederick
+- GitHub: @Jippir
