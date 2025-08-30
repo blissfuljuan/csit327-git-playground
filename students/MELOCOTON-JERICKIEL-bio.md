@@ -1,0 +1,4 @@
+- Year/Section: 3rd yr / G02
+- Favorite Language: java 
+- One Git Tip Learned: Always commit
+- GitHub: @serkiel 
